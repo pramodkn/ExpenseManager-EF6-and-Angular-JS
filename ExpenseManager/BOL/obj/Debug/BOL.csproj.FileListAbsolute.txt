@@ -1,0 +1,28 @@
+D:\project_vs\ExpenseManager\BOL\bin\Debug\BOL.dll.config
+D:\project_vs\ExpenseManager\BOL\bin\Debug\BOL.dll
+D:\project_vs\ExpenseManager\BOL\bin\Debug\BOL.pdb
+D:\project_vs\ExpenseManager\BOL\bin\Debug\EntityFramework.dll
+D:\project_vs\ExpenseManager\BOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\project_vs\ExpenseManager\BOL\bin\Debug\EntityFramework.xml
+D:\project_vs\ExpenseManager\BOL\bin\Debug\EntityFramework.SqlServer.xml
+D:\project_vs\ExpenseManager\BOL\obj\Debug\BOL.dll
+D:\project_vs\ExpenseManager\BOL\obj\Debug\BOL.pdb
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\bin\Debug\BOL.dll.config
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\bin\Debug\BOL.dll
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\bin\Debug\BOL.pdb
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\bin\Debug\EntityFramework.dll
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\bin\Debug\EntityFramework.xml
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\bin\Debug\EntityFramework.SqlServer.xml
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\obj\Debug\BOL.dll
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\obj\Debug\BOL.pdb
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Debug\BOL.dll.config
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Debug\BOL.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Debug\BOL.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Debug\EntityFramework.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Debug\EntityFramework.xml
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Debug\EntityFramework.SqlServer.xml
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\obj\Debug\BOL.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\obj\Debug\BOL.pdb

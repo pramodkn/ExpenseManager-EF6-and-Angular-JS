@@ -1,0 +1,4 @@
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\bin\Release\EM.DomainModel.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\bin\Release\EM.DomainModel.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\obj\Release\EM.DomainModel.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\obj\Release\EM.DomainModel.pdb

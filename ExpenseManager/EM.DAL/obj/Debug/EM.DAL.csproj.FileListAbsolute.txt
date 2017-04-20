@@ -1,0 +1,12 @@
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\obj\Debug\EM.DAL.csprojResolveAssemblyReference.cache
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EM.DAL.dll.config
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EM.DAL.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EM.DAL.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EM.DomainModel.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EntityFramework.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EM.DomainModel.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EntityFramework.xml
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\obj\Debug\EM.DAL.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\obj\Debug\EM.DAL.pdb

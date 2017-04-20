@@ -1,0 +1,14 @@
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EM.Service.dll.config
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EM.Service.dll
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EM.Service.pdb
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EM.Model.dll
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EntityFramework.dll
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\BOL.dll
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EM.Model.pdb
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EntityFramework.xml
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\project_vs\ExpenseManager\EM.Service\bin\Debug\BOL.pdb
+D:\project_vs\ExpenseManager\EM.Service\obj\Debug\EM.Service.csprojResolveAssemblyReference.cache
+D:\project_vs\ExpenseManager\EM.Service\obj\Debug\EM.Service.dll
+D:\project_vs\ExpenseManager\EM.Service\obj\Debug\EM.Service.pdb

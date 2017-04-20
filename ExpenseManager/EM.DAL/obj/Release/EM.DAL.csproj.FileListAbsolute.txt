@@ -1,0 +1,1 @@
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DAL\obj\Release\EM.DAL.csprojResolveAssemblyReference.cache

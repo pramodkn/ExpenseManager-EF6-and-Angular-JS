@@ -1,0 +1,11 @@
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\bin\Release\Service.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\bin\Release\Service.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\bin\Release\BOL.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\bin\Release\EntityFramework.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\bin\Release\EntityFramework.SqlServer.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\bin\Release\BOL.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\bin\Release\EntityFramework.xml
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\bin\Release\EntityFramework.SqlServer.xml
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\obj\Release\Service.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\Service\obj\Release\Service.pdb

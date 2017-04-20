@@ -1,0 +1,9 @@
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Release\BOL.dll.config
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Release\BOL.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Release\BOL.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Release\EntityFramework.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Release\EntityFramework.SqlServer.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Release\EntityFramework.xml
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\bin\Release\EntityFramework.SqlServer.xml
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\obj\Release\BOL.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\BOL\obj\Release\BOL.pdb

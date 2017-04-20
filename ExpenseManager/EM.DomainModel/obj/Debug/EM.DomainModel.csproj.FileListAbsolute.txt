@@ -1,0 +1,9 @@
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\bin\Debug\EM.DomainModel.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\bin\Debug\EM.DomainModel.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\obj\Debug\EM.DomainModel.dll
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\obj\Debug\EM.DomainModel.pdb
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\EM.DomainModel\bin\Debug\EM.DomainModel.dll
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\EM.DomainModel\bin\Debug\EM.DomainModel.pdb
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\EM.DomainModel\obj\Debug\EM.DomainModel.dll
+D:\pramod\EF Pattertn N tier With DB example Room\ExpenseManager\EM.DomainModel\obj\Debug\EM.DomainModel.pdb
+D:\project_vs\EF Pattertn N tier With DB example\ExpenseManager\EM.DomainModel\obj\Debug\EM.DomainModel.csprojResolveAssemblyReference.cache
